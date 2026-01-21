@@ -57,13 +57,6 @@ https://github.com/RNM28?tab=repositories
 
 ---
 
-## 📊 GitHub Stats
-
-![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNM28&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNM28&layout=compact)
-
----
-
 ## 📫 How to Reach Me
 
 📧 **Email:** rehanmaharaj55@gmail.com  

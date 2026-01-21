@@ -1,41 +1,37 @@
 # 👋 Hi, I’m Rehan Maharaj
 
-🎯 **Junior Data Analyst** | 📊 Data Reporting & Visualisation | 🧠 Turning Data into Insights  
+🗂️ **Administrator / Data & Operations Support**  
+📊 Reporting • Data Validation • Process Improvement  
 
-I’m a Junior Data Analyst with strong foundations in **Excel, SQL, Python, and Power BI**, specialising in data cleaning, validation, transformation, and dashboard creation. I enjoy working with large datasets and translating complex data into clear, actionable insights that support business and operational decision-making.
+I’m an Administrator with strong **data and operations support** experience, specialising in Excel- and SQL-based reporting, data validation, and dashboard creation. I work closely with operational and client data to improve efficiency, ensure data accuracy, and support informed business decisions. I enjoy streamlining processes and turning raw data into clear, actionable insights.
 
 ---
 
 ## 🔍 What I’m Currently Working On
 
-- 📈 Building **Power BI dashboards** for operational and performance reporting  
-- 🧹 Practising **data cleaning, validation, and EDA** using Python (Pandas, NumPy)  
-- 🗄️ Improving **SQL querying and data analysis** skills  
-- 🧠 Developing practical, end-to-end **data analysis projects**  
-- 📂 Expanding my GitHub portfolio with real-world datasets  
+- 📈 Creating **Excel and Power BI reports** for operational and management use  
+- 🧹 Improving **data quality, validation, and consistency** across client datasets  
+- 🗄️ Writing and optimising **SQL queries** for reporting and analysis  
+- ⚙️ Automating repetitive admin and reporting tasks using **Python**  
+- 📂 Building a practical **data & operations portfolio** on GitHub  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-### 📊 Data Analysis & Processing
+### 📊 Data & Operations
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data_Queries-4479A1?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Reporting-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?logo=powerbi&logoColor=black)
 
-### 📉 Visualisation
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Visualisation-E97627?logo=tableau&logoColor=white)
+### 🧹 Data Processing
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Data%20Processing-013243)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-Basics-lightgrey)
-
-### 🧠 Machine Learning & Analytics (Foundational)
-- Regression & Classification  
-- Clustering & Anomaly Detection  
-- Time-Series Forecasting  
-- Model Evaluation & Tuning  
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-Basic-F05032?logo=git&logoColor=white)
@@ -46,14 +42,21 @@ I’m a Junior Data Analyst with strong foundations in **Excel, SQL, Python, and
 
 ## 📂 Projects
 
-My repositories showcase practical data analysis projects, including:
-- 🧹 Data cleaning and preprocessing  
-- 🔍 Exploratory data analysis (EDA)  
-- 🗄️ SQL-based analysis  
-- 📊 Reporting and dashboard-ready datasets  
+My GitHub repositories focus on **practical data and operations support work**, including:
+- 🧾 Excel-based tracking and reporting systems  
+- 🧹 Data cleaning and validation workflows  
+- 📊 Dashboard-ready datasets  
+- 🗄️ SQL reporting queries  
 
 👉 **View my projects:**  
 https://github.com/RNM28?tab=repositories
+
+---
+
+## 📊 GitHub Stats
+
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNM28&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RNM28&layout=compact)
 
 ---
 
@@ -61,7 +64,7 @@ https://github.com/RNM28?tab=repositories
 
 📧 **Email:** rehanmaharaj55@gmail.com  
 📍 **Location:** South Africa  
-💼 **Open to:** Junior Data Analyst / Business Intelligence / Data Reporting roles  
+💼 **Open to:** Data & Operations Support / Administrative / Reporting-focused roles  
 
 ---
 

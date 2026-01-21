@@ -64,7 +64,15 @@ https://github.com/RNM28?tab=repositories
 
 📧 **Email:** rehanmaharaj55@gmail.com  
 📍 **Location:** South Africa  
-💼 **Open to:** Data & Operations Support / Administrative / Reporting-focused roles  
+💼 **Roles I’m interested in:**  
+- Data Analyst  
+- Data Scientist  
+- Data Engineer  
+- Big Data Analyst  
+- Business Intelligence Analyst  
+- Quantitative Analyst  
+- Market Researcher  
+- Any field that requires the analysis of data to yield strategic value  
 
 ---
 

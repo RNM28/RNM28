@@ -3,7 +3,7 @@
 🗂️ **Administrator / Data & Operations Support**  
 📊 Reporting • Data Validation • Process Improvement  
 
-I’m an Administrator with strong **data and operations support** experience, specialising in Excel- and SQL-based reporting, data validation, and dashboard creation. I work closely with operational and client data to improve efficiency, ensure data accuracy, and support informed business decisions. I enjoy streamlining processes and turning raw data into clear, actionable insights.
+I’m an Administrator / Data & Operations Support with strong **data and operations support** experience, specialising in Excel- and SQL-based reporting, data validation, and dashboard creation. I work closely with operational and client data to improve efficiency, ensure data accuracy, and support informed business decisions. I enjoy streamlining processes and turning raw data into clear, actionable insights.
 
 ---
 

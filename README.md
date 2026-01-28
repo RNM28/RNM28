@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rehan Maharaj
 
-🗂️ **Administrator / Data & Operations Support**  
+🗂️ **Data Analyst**  
 📊 Reporting • Data Validation • Process Improvement  
 
 I’m an **Administrator / Data & Operations Support professional** with strong experience in Excel- and SQL-based reporting, data validation, and dashboard creation. I work closely with operational and client data to improve efficiency, ensure data accuracy, and support informed business decisions. I enjoy streamlining processes and turning raw data into clear, actionable insights.

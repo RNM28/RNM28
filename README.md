@@ -3,7 +3,7 @@
 🗂️ **Data Analyst**  
 📊 Reporting • Data Validation • Process Improvement  
 
-I’m an **Administrator / Data & Operations Support professional** with strong experience in Excel- and SQL-based reporting, data validation, and dashboard creation. I work closely with operational and client data to improve efficiency, ensure data accuracy, and support informed business decisions. I enjoy streamlining processes and turning raw data into clear, actionable insights.
+I am a **Data Analyst** with strong experience in Excel and SQL based reporting, data validation, and dashboard development. I work closely with client and financial data to improve efficiency, maintain high standards of data accuracy and integrity, and support informed business decision-making. I specialise in streamlining reporting processes and transforming raw data into clear, actionable insights for a senior financial planner and two staff members.
 
 ---
 

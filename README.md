@@ -3,7 +3,7 @@
 🗂️ **Data Analyst**  
 📊 Reporting • Data Validation • Process Improvement  
 
-I am a **Data Analyst** with strong experience in Excel and SQL based reporting, data validation, and dashboard development. I work closely with client and financial data to improve efficiency, maintain high standards of data accuracy and integrity, and support informed business decision-making. I specialise in streamlining reporting processes and transforming raw data into clear, actionable insights for a senior financial planner and two staff members.
+I am a **Data Analyst** with strong experience in Excel, SQL, and Python based reporting, data validation, and dashboard development. I work closely with client and financial data to improve efficiency, maintain high standards of data accuracy and integrity, and support informed business decision making. I specialise in streamlining reporting processes and transforming raw data into clear, actionable insights for a senior financial planner.
 
 ---
 
